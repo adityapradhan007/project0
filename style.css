@@ -1,0 +1,33 @@
+body{
+	background-color: #ddedec;
+
+	}
+	h1{
+		text-align: center;
+		color: #4e538a;
+	}
+
+    h3{
+      	margin: 30px;
+      	color: #4e538a;
+    }
+
+    p{
+    	margin: 30px;
+    }
+    img{
+    	width: 500px;
+    	height: 400px;
+    	float: right;
+    	top: 30px;
+    	margin: 30px;
+    }
+
+    h2{
+    	margin: 30px;
+    }
+
+    ul{
+    	
+    	font-size: 20px;
+    }
